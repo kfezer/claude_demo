@@ -1,3 +1,8 @@
+# generated files
+documented_code.py
+code_analysis.json
+generated_readme.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
